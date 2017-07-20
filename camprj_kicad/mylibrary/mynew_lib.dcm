@@ -1,0 +1,59 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +1.2V
+K POWER, PWR
+$ENDCMP
+#
+$CMP +2.8V
+K POWER, PWR
+$ENDCMP
+#
+$CMP +2.8VIO
+K POWER, PWR
+$ENDCMP
+#
+$CMP FIS1100
+D Stand-Alone CAN Controller with SPI Interface, TSSOP-20, Extended temperature range
+K CAN Controller SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21801e.pdf
+$ENDCMP
+#
+$CMP MCP2515-I/ST
+D IMU
+K IMU
+F http://www.mouser.com/ds/2/149/FIS1100-611030.pdf
+$ENDCMP
+#
+$CMP VDDA_IMU
+K POWER, PWR
+$ENDCMP
+#
+$CMP VDDC_TH
+K POWER, PWR
+$ENDCMP
+#
+$CMP VDDIO_IMU
+K POWER, PWR
+$ENDCMP
+#
+$CMP VDDIO_TH
+K POWER, PWR
+$ENDCMP
+#
+$CMP VDD_DIST
+K POWER, PWR
+$ENDCMP
+#
+$CMP VDD_TH
+K POWER, PWR
+$ENDCMP
+#
+$CMP VUSB
+K POWER, PWR
+$ENDCMP
+#
+$CMP VUSB_IN
+K POWER, PWR
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,79 @@
+ERC report (7/7/2017 12:11:41 PM, Encoding UTF8 )
+
+***** Sheet /
+
+***** Sheet /RPI_pinout/
+
+***** Sheet /thermal_sense/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (109.22 mm,121.92 mm): Pin 1 (Power input) of component #PWR014 is not driven (Net 25).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (128.27 mm,105.41 mm): Pin 15 (Power input) of component U2 is not driven (Net 34).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (71.12 mm,101.60 mm): Pin 2 (Passive) of component L1 is not driven (Net 35).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (209.55 mm,96.52 mm): Pin 1 (Power input) of component U4 is not driven (Net 46).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (115.57 mm,105.41 mm): Pin 10 (Power input) of component U2 is not driven (Net 47).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (189.23 mm,99.06 mm): Pin 5 (Power input) of component U4 is not driven (Net 48).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (83.82 mm,82.55 mm): Pin 1 (Power input) of component #PWR015 is not driven (Net 51).
+
+***** Sheet /dist_sensor/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (121.92 mm,38.10 mm): Pin 5 (Power input) of component U5 is not driven (Net 70).
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (110.49 mm,123.19 mm): Pin 8 (Input) of component U6 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (121.92 mm,43.18 mm): Pin 4 (Bidirectional) of component U5 is unconnected.
+
+***** Sheet /IMU/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (124.46 mm,26.67 mm): Pin 5 (Power input) of component U7 is not driven (Net 76).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (105.41 mm,106.68 mm): Pin 1 (Passive) of component C17 is not driven (Net 77).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (96.52 mm,106.68 mm): Pin 1 (Passive) of component C16 is not driven (Net 79).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (198.12 mm,31.75 mm): Pin 1 (Passive) of component C20 is not driven (Net 81).
+
+***** Sheet /LED_Drive/
+
+***** Sheet /LED_Drive/single_led_drive/
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (127.00 mm,78.74 mm): Pin 3 (Input) of component U12 is unconnected.
+
+***** Sheet /LED_Drive/sheet59607CD1/
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (127.00 mm,78.74 mm): Pin 3 (Input) of component U12 is unconnected.
+
+***** Sheet /LED_Drive/sheet5960845C/
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (127.00 mm,78.74 mm): Pin 3 (Input) of component U12 is unconnected.
+
+***** Sheet /LED_Drive/sheet59608610/
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (127.00 mm,78.74 mm): Pin 3 (Input) of component U12 is unconnected.
+
+***** Sheet /LED_Drive/sheet59608773/
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (127.00 mm,78.74 mm): Pin 3 (Input) of component U12 is unconnected.
+
+***** Sheet /LED_Drive/sheet5960886D/
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (127.00 mm,78.74 mm): Pin 3 (Input) of component U12 is unconnected.
+
+***** Sheet /power_supply/
+ErrType(8): Global label not connected to any other global label
+    @ (200.66 mm,85.09 mm): Global label 5V_0 is not connected to any other global label.
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (104.14 mm,80.01 mm): Pin 1 (Power input) of component #PWR072 is not driven (Net 53).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (110.49 mm,80.01 mm): Pin 1 (Power input) of component #PWR071 is not driven (Net 61).
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (77.47 mm,20.32 mm): Pin NC2 (Bidirectional) of component JP1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (77.47 mm,27.94 mm): Pin NC1 (Bidirectional) of component JP1 is unconnected.
+
+ ** ERC messages: 25  Errors 0  Warnings 25

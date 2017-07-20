@@ -1,0 +1,72 @@
+ERC report (7/7/2017 1:07:15 PM, Encoding UTF8 )
+
+***** Sheet /
+
+***** Sheet /RPI_pinout/
+
+***** Sheet /thermal_sense/
+ErrType(4): Conflict problem between pins. Severity: warning
+    @ (176.53 mm,52.07 mm): Pin 1 (Bidirectional) of component Y1 is connected to 
+    @ (168.91 mm,125.73 mm): pin 5 (Power output) of component U3 (net 43).
+ErrType(4): Conflict problem between pins. Severity: warning
+    @ (148.59 mm,133.35 mm): Pin 3 (Bidirectional) of component U3 is connected to 
+    @ (220.98 mm,91.44 mm): pin 1 (Power output) of component #FLG019 (net 46).
+ErrType(4): Conflict problem between pins. Severity: warning
+    @ (220.98 mm,91.44 mm): Pin 1 (Power output) of component #FLG019 is connected to 
+    @ (78.74 mm,124.46 mm): pin 3 (Bidirectional) of component U1 (net 46).
+ErrType(4): Conflict problem between pins. Severity: warning
+    @ (72.39 mm,82.55 mm): Pin 1 (Power output) of component #FLG020 is connected to 
+    @ (76.20 mm,104.14 mm): pin 4 (Bidirectional) of component U1 (net 50).
+
+***** Sheet /dist_sensor/
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (110.49 mm,123.19 mm): Pin 8 (Input) of component U6 is unconnected.
+
+***** Sheet /IMU/
+
+***** Sheet /LED_Drive/
+
+***** Sheet /LED_Drive/single_led_drive/
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (127.00 mm,78.74 mm): Pin 3 (Input) of component U12 is unconnected.
+
+***** Sheet /LED_Drive/sheet59607CD1/
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (127.00 mm,78.74 mm): Pin 3 (Input) of component U12 is unconnected.
+
+***** Sheet /LED_Drive/sheet5960845C/
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (127.00 mm,78.74 mm): Pin 3 (Input) of component U12 is unconnected.
+
+***** Sheet /LED_Drive/sheet59608610/
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (127.00 mm,78.74 mm): Pin 3 (Input) of component U12 is unconnected.
+
+***** Sheet /LED_Drive/sheet59608773/
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (127.00 mm,78.74 mm): Pin 3 (Input) of component U12 is unconnected.
+
+***** Sheet /LED_Drive/sheet5960886D/
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (127.00 mm,78.74 mm): Pin 3 (Input) of component U12 is unconnected.
+
+***** Sheet /power_supply/
+ErrType(4): Conflict problem between pins. Severity: warning
+    @ (139.70 mm,85.09 mm): Pin 10 (Bidirectional) of component U16 is connected to 
+    @ (182.88 mm,80.01 mm): pin 1 (Power output) of component #FLG081 (net 14).
+ErrType(4): Conflict problem between pins. Severity: warning
+    @ (182.88 mm,80.01 mm): Pin 1 (Power output) of component #FLG081 is connected to 
+    @ (139.70 mm,92.71 mm): pin 5 (Bidirectional) of component U16 (net 14).
+ErrType(4): Conflict problem between pins. Severity: warning
+    @ (93.98 mm,110.49 mm): Pin 1 (Power output) of component #FLG080 is connected to 
+    @ (139.70 mm,100.33 mm): pin 4 (Bidirectional) of component U16 (net 32).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (45.72 mm,17.78 mm): Pin 1 (Power input) of component #PWR073 is not driven (Net 60).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (104.14 mm,80.01 mm): Pin 1 (Power input) of component #PWR077 is not driven (Net 65).
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (77.47 mm,20.32 mm): Pin NC2 (Bidirectional) of component JP1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (77.47 mm,27.94 mm): Pin NC1 (Bidirectional) of component JP1 is unconnected.
+
+ ** ERC messages: 18  Errors 0  Warnings 18
