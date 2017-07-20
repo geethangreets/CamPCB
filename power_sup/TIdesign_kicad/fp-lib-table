@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "sparkfun-battery-babysitter")(type Legacy)(uri "E:/ETH/Summer2017/pcbSummer2017/power_sup/TIdesign_kicad/sparkfun-battery-babysitter.mod")(options "")(descr ""))
+)
