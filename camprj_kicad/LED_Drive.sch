@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:camprj_kicad-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -45,42 +46,42 @@ $EndDescr
 $Sheet
 S 2150 700  2100 1450
 U 59604F09
-F0 "single_led_drive" 60
+F0 "IR_SET1" 60
 F1 "single_led_drive.sch" 60
 F2 "PWM_IN" I L 2150 1000 60 
 $EndSheet
 $Sheet
 S 2100 2350 2100 1450
 U 59607CD4
-F0 "sheet59607CD1" 60
+F0 "IR_SET2" 60
 F1 "single_led_drive.sch" 60
 F2 "PWM_IN" I L 2100 2650 60 
 $EndSheet
 $Sheet
 S 2100 4000 2100 1450
 U 5960845F
-F0 "sheet5960845C" 60
+F0 "IR_SET3" 60
 F1 "single_led_drive.sch" 60
 F2 "PWM_IN" I L 2100 4300 60 
 $EndSheet
 $Sheet
 S 2100 5750 2100 1450
 U 59608613
-F0 "sheet59608610" 60
+F0 "IR_SET4" 60
 F1 "single_led_drive.sch" 60
 F2 "PWM_IN" I L 2100 6050 60 
 $EndSheet
 $Sheet
 S 7750 1250 2100 1450
 U 59608776
-F0 "sheet59608773" 60
+F0 "WH_SET1" 60
 F1 "single_led_drive.sch" 60
 F2 "PWM_IN" I L 7750 1550 60 
 $EndSheet
 $Sheet
 S 7750 3300 2100 1450
 U 59608870
-F0 "sheet5960886D" 60
+F0 "UV_SET1" 60
 F1 "single_led_drive.sch" 60
 F2 "PWM_IN" I L 7750 3600 60 
 $EndSheet

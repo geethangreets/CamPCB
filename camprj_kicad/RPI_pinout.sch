@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:camprj_kicad-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -47,7 +48,7 @@ L Raspberry_Pi_2_3 J1
 U 1 1 595CCB8C
 P 3950 3250
 F 0 "J1" H 4650 2000 50  0000 C CNN
-F 1 "ESQ-120-69-G-D-LL" H 3550 4150 50  0000 C CNN
+F 1 "20x2 header" H 3550 4150 50  0000 C CNN
 F 2 "Pin_Headers:Pin_Header_Straight_2x20_Pitch2.54mm" H 4950 4500 50  0001 C CNN
 F 3 "http://suddendocs.samtec.com/catalog_english/esq_th.pdf" H 4000 3100 50  0001 C CNN
 F 4 "https://www.digikey.com/product-detail/en/ESQ-120-69-G-D-LL/ESQ-120-69-G-D-LL-ND/7098805?WT.z_cid=ref_neda_dkc_buynow" H 3950 3250 60  0001 C CNN "Buy Link"

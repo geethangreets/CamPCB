@@ -12,16 +12,16 @@ $CMP +2.8VIO
 K POWER, PWR
 $ENDCMP
 #
+$CMP DMMT5401
+D 65V Vce, 100mA IC, Dual PNP/PNP Transistors, SOT-363
+K Transistor PNP/PNP
+F http://www.nxp.com/documents/data_sheet/BC856BS.pdf
+$ENDCMP
+#
 $CMP FIS1100
 D Stand-Alone CAN Controller with SPI Interface, TSSOP-20, Extended temperature range
 K CAN Controller SPI
 F http://ww1.microchip.com/downloads/en/DeviceDoc/21801e.pdf
-$ENDCMP
-#
-$CMP MCP2515-I/ST
-D IMU
-K IMU
-F http://www.mouser.com/ds/2/149/FIS1100-611030.pdf
 $ENDCMP
 #
 $CMP VDDA_IMU

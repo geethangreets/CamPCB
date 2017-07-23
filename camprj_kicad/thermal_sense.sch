@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:camprj_kicad-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -384,17 +385,6 @@ F 3 "" H 3300 5600 50  0001 C CNN
 	1    3300 5600
 	1    0    0    -1  
 $EndComp
-$Comp
-L SCHOTTKY-B340A D1
-U 1 1 595E85D3
-P 3750 5000
-F 0 "D1" H 3850 5019 45  0000 L BNN
-F 1 "B340A" H 3850 4909 45  0000 L BNN
-F 2 "Myfootprints:D_SMA_Handsoldering_AC" H 3780 5150 20  0001 C CNN
-F 3 "" H 3850 5019 60  0001 C CNN
-	1    3750 5000
-	1    0    0    -1  
-$EndComp
 Text Label 4300 5400 1    60   ~ 0
 VDC
 Text Label 3350 5000 0    60   ~ 0
@@ -743,4 +733,16 @@ F 3 "" H 2850 3250 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2850 3250 2850 3450
+$Comp
+L SCHOTTKY-B340A D1
+U 1 1 5974B1F1
+P 3750 5000
+F 0 "D1" H 3850 5019 45  0000 L BNN
+F 1 "B340A" H 3700 4850 45  0000 L BNN
+F 2 "Myfootprints:D_SMA_Handsoldering_AC" H 3780 5150 20  0001 C CNN
+F 3 "http://www.mouser.com/ds/2/115/ds30891-89887.pdf" H 3850 5019 60  0001 C CNN
+F 4 "http://www.mouser.ch/ProductDetail/Diodes-Incorporated/B340A-13-F/?qs=aLaTXeBcTP9fj%2fYKVo6Q1A==" H 3950 5119 60  0001 C CNN "Buy Link"
+	1    3750 5000
+	-1   0    0    1   
+$EndComp
 $EndSCHEMATC
