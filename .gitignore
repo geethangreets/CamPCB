@@ -19,3 +19,14 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+libraries/
+DistanceSensor/kicad-lib-master/
+thermalFlirLeptonSensor/gitrepo/
+camprj_kicad/imports/RPi_Hat_Template-master/
+DistanceSensor/VL53L0X_BreakoutEagleFiles/KiCad/
+power_sup/kicad/
+power_sup/TIdesign_kicad/sparkfun-battery-babysitter.lbr
+power_sup/TIdesign_kicad/sparkfun-battery-babysitter.pro
+power_sup/Battery_Babysitter-master/
+power_sup/Adafruit-PowerBoost-1000C-master/
+power_sup/TIdesign_kicad/
