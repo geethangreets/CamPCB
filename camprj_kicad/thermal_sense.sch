@@ -37,7 +37,7 @@ Sheet 3 13
 Title "Termal sensor sub circuit"
 Date "2017-07-06"
 Rev "1"
-Comp "D-HEST, ETH Zurich"
+Comp "MHSL ETH Zurich"
 Comment1 "Geethan Karunaratne"
 Comment2 ""
 Comment3 ""
@@ -52,6 +52,7 @@ F 1 "Molex 1052028-1001" H 5450 2570 45  0000 L BNN
 F 2 "Myfootprints:105028-1001" H 4880 3500 20  0001 C CNN
 F 3 "http://www.mouser.com/ds/2/276/1050281001_OTHER_SOCKETS-152362.pdf" H 4850 3350 60  0001 C CNN
 F 4 "http://eu.mouser.com/ProductDetail/Molex/105028-1001/?qs=3OKVfsn1b5DSpyA99lGNjg%3D%3D" H 4850 3350 60  0001 C CNN "Buy Link"
+F 5 "105028-1001" H 4850 3350 60  0001 C CNN "MPN"
 	1    4850 3350
 	1    0    0    -1  
 $EndComp
@@ -64,6 +65,7 @@ F 1 "LM3670SOT23-5" H 2600 4130 45  0000 L BNN
 F 2 "TO_SOT_Packages_SMD:SOT-23-5_HandSoldering" H 2930 4650 20  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lm3670.pdf" H 2900 4500 60  0001 C CNN
 F 4 "http://eu.mouser.com/ProductDetail/Texas-Instruments/LM3670MFX-ADJ-NOPB/?qs=sGAEpiMZZMsMIqGZiACxIYreuZyZ6HSrgrP8lU6%252bpXc%3d" H 2900 4500 60  0001 C CNN "Buy Link"
+F 5 "LM3670MFX-ADJ/NOPB" H 2900 4500 60  0001 C CNN "MPN"
 	1    2900 4500
 	0    -1   -1   0   
 $EndComp
@@ -133,6 +135,7 @@ F 1 "ASFLMB-25MHZ" H 6250 1470 45  0000 L BNN
 F 2 "Myfootprints:5X3.2-CRYSTAL" H 6580 2000 20  0001 C CNN
 F 3 "http://www.mouser.com/ds/2/3/ASFLMB-24525.pdf" H 6550 1850 60  0001 C CNN
 F 4 "http://eu.mouser.com/ProductDetail/ABRACON/ASFLMB-25000MHZ-LC-T/?qs=3YAjQa1E1OmYZx%252blyx8lOg%3D%3D" H 6550 1850 60  0001 C CNN "Buy Link"
+F 5 "ASFLMB-25.000MHZ-LC-T" H 6550 1850 60  0001 C CNN "MPN"
 	1    6550 1850
 	-1   0    0    1   
 $EndComp
@@ -228,6 +231,7 @@ F 1 "ADP150AUJZ-2.8-R7" H 7550 3610 45  0000 L BNN
 F 2 "TO_SOT_Packages_SMD:TSOT-23-5_HandSoldering" H 7880 4150 20  0001 C CNN
 F 3 "http://www.mouser.com/ds/2/609/ADP150-773560.pdf" H 7850 4000 60  0001 C CNN
 F 4 "http://eu.mouser.com/ProductDetail/Analog-Devices/ADP150AUJZ-28-R7/?qs=WIvQP4zGanh7WlpvNfrmXw%3D%3D" H 7850 4000 60  0001 C CNN "Buy Link"
+F 5 "ADP150AUJZ-2.8-R7" H 7850 4000 60  0001 C CNN "MPN"
 	1    7850 4000
 	-1   0    0    -1  
 $EndComp
@@ -303,6 +307,7 @@ F 1 "ADP150AUJZ-3.3-R7" H 5950 4660 45  0000 L BNN
 F 2 "TO_SOT_Packages_SMD:TSOT-23-5_HandSoldering" H 6280 5200 20  0001 C CNN
 F 3 "http://www.mouser.com/ds/2/609/ADP150-773560.pdf" H 6250 5050 60  0001 C CNN
 F 4 "http://eu.mouser.com/ProductDetail/Analog-Devices/ADP150AUJZ-33-R7/?qs=WIvQP4zGanjNlX1MqHWsFA%3D%3D" H 6250 5050 60  0001 C CNN "Buy Link"
+F 5 "ADP150AUJZ-3.3-R7" H 6250 5050 60  0001 C CNN "MPN"
 	1    6250 5050
 	1    0    0    -1  
 $EndComp
@@ -742,6 +747,7 @@ F 1 "B340A" H 3700 4850 45  0000 L BNN
 F 2 "Myfootprints:D_SMA_Handsoldering_AC" H 3780 5150 20  0001 C CNN
 F 3 "http://www.mouser.com/ds/2/115/ds30891-89887.pdf" H 3850 5019 60  0001 C CNN
 F 4 "http://www.mouser.ch/ProductDetail/Diodes-Incorporated/B340A-13-F/?qs=aLaTXeBcTP9fj%2fYKVo6Q1A==" H 3950 5119 60  0001 C CNN "Buy Link"
+F 5 "B340A-13-F" H 3750 5000 60  0001 C CNN "MPN"
 	1    3750 5000
 	-1   0    0    1   
 $EndComp

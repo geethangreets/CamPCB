@@ -37,7 +37,7 @@ Sheet 13 13
 Title "USB charging and Power Supply"
 Date "2017-07-07"
 Rev "1"
-Comp "D-HEST ETH Zurich"
+Comp "MHSL ETH Zurich"
 Comment1 "Geethan Karunaratne"
 Comment2 ""
 Comment3 ""
@@ -52,6 +52,7 @@ F 1 "BQ24075RGTR" H 4850 3250 45  0000 L BNN
 F 2 "Myfootprints:QFN-16-1EP_3x3mm_Pitch0.5mm" H 5030 4000 20  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/bq24075.pdf" H 5000 3850 60  0001 C CNN
 F 4 "http://eu.mouser.com/ProductDetail/Texas-Instruments/BQ24075RGTR/?qs=sGAEpiMZZMs7zYnFw9eWkqY9KdX9yrFF" H 5000 3850 60  0001 C CNN "Buying Link"
+F 5 "BQ24075RGTR" H 5000 3850 60  0001 C CNN "MPN"
 	1    5000 3850
 	1    0    0    -1  
 $EndComp
@@ -64,6 +65,7 @@ F 1 "USB_OTG" H 1050 1450 50  0000 L CNN
 F 2 "Connectors:USB_Micro-B" H 1400 1050 50  0001 C CNN
 F 3 "http://www.mouser.com/ds/2/445/629105150521-469306.pdf" H 1400 1050 50  0001 C CNN
 F 4 "http://www.mouser.ch/ProductDetail/Wurth-Electronics/629105150521/?qs=a9WhcLg8qCzXiH7kZP8GRQ%3d%3d" H 1250 1100 60  0001 C CNN "Buy Link"
+F 5 "629105150521" H 1250 1100 60  0001 C CNN "MPN"
 	1    1250 1100
 	1    0    0    -1  
 $EndComp
@@ -79,6 +81,7 @@ F 2 "Connectors_JST:JST_PH_B2B-PH-K_02x2.00mm_Straight" H 3180 1150 20  0001 C C
 F 3 "http://www.mouser.com/ds/2/564/eCPT-334507.pdf" H 3150 1000 60  0001 C CNN
 F 4 "http://www.mouser.ch/ProductDetail/JST-Automotive/BM02B-CPTK-1A-TB/?qs=sGAEpiMZZMs7eK6h2EBtKpZPrn2bvQ1TQstUUrXc%2ftY%3d" H 3150 1000 60  0001 C CNN "Buy Link"
 F 5 "https://www.sparkfun.com/products/13813" H 3150 1000 60  0001 C CNN "Battery"
+F 6 "BM02B-CPTK-1A-TB" H 3150 1000 60  0001 C CNN "MPN"
 	1    3150 1000
 	0    -1   -1   0   
 $EndComp
@@ -91,6 +94,7 @@ F 1 "SWITCH" H 5050 1400 45  0000 L BNN
 F 2 "Switches:DPST_TE_SSJ12R04" H 5180 1400 20  0001 C CNN
 F 3 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825282&DocType=Customer+Drawing&DocLang=English" H 5150 1250 60  0001 C CNN
 F 4 "https://www.digikey.com/product-detail/en/te-connectivity-alcoswitch-switches/1825282-1/450-1635-ND/1308844" H 5150 1250 60  0001 C CNN "Buy Link"
+F 5 "1825282-1" H 5150 1250 60  0001 C CNN "MPN"
 	1    5150 1250
 	1    0    0    -1  
 $EndComp
@@ -550,6 +554,7 @@ F 1 "DMG2305UX" H 9100 3400 50  0000 L CNN
 F 2 "TO_SOT_Packages_SMD:SOT-23" H 9100 3550 50  0001 C CNN
 F 3 "https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf" H 8900 3450 50  0001 C CNN
 F 4 "http://www.mouser.ch/ProductDetail/Diodes-Incorporated/DMG2305UX-13/?qs=L1DZKBg7t5Hgw5KN3G2IRg==" H 8900 3450 60  0001 C CNN "Buy Link"
+F 5 "DMG2305UX-13" H 8900 3450 60  0001 C CNN "MPN"
 	1    8900 3450
 	0    -1   -1   0   
 $EndComp
@@ -658,6 +663,7 @@ F 1 "DMMT5401" H 8800 3850 50  0000 L CNN
 F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8800 4000 50  0001 C CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds30437.pdf" H 8800 3950 50  0001 C CNN
 F 4 "http://www.mouser.ch/ProductDetail/Diodes-Incorporated/DMMT5401-7-F/?qs=hiZRsJxw0h3f7LzTPwvEFQ==" H 8900 4050 60  0001 C CNN "Buy Link"
+F 5 "DMMT5401-7-F" H 8600 3900 60  0001 C CNN "MPN"
 	2    8600 3900
 	-1   0    0    1   
 $EndComp
@@ -670,6 +676,7 @@ F 1 "DMMT5401" H 9400 3850 50  0000 L CNN
 F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 9400 4000 50  0001 C CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds30437.pdf" H 9400 3950 50  0001 C CNN
 F 4 "http://www.mouser.ch/ProductDetail/Diodes-Incorporated/DMMT5401-7-F/?qs=hiZRsJxw0h3f7LzTPwvEFQ==" H 9500 4050 60  0001 C CNN "Buy Link"
+F 5 "DMMT5401-7-F" H 9200 3900 60  0001 C CNN "MPN"
 	1    9200 3900
 	1    0    0    1   
 $EndComp

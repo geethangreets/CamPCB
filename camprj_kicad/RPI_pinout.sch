@@ -37,7 +37,7 @@ Sheet 2 13
 Title "Raspberry PI IO subcircuit"
 Date "2017-07-06"
 Rev "1"
-Comp "D-HEST ETH Zurich"
+Comp "MHSL ETH Zurich"
 Comment1 "Geethan Karunaratne"
 Comment2 ""
 Comment3 ""
@@ -52,6 +52,7 @@ F 1 "20x2 header" H 3550 4150 50  0000 C CNN
 F 2 "Pin_Headers:Pin_Header_Straight_2x20_Pitch2.54mm" H 4950 4500 50  0001 C CNN
 F 3 "http://suddendocs.samtec.com/catalog_english/esq_th.pdf" H 4000 3100 50  0001 C CNN
 F 4 "https://www.digikey.com/product-detail/en/ESQ-120-69-G-D-LL/ESQ-120-69-G-D-LL-ND/7098805?WT.z_cid=ref_neda_dkc_buynow" H 3950 3250 60  0001 C CNN "Buy Link"
+F 5 "ESQ-120-69-G-D-LL" H 3950 3250 60  0001 C CNN "MPN"
 	1    3950 3250
 	1    0    0    -1  
 $EndComp

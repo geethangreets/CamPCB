@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name Myfootprints)(type KiCad)(uri "$(KIPRJMOD)/mylibrary/myfootprints.pretty")(options "")(descr "Project specific"))
+  (lib (name logo)(type KiCad)(uri E:/ETH/Summer2017/repo/docs/logo)(options "")(descr ""))
 )

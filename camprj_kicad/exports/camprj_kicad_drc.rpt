@@ -1,0 +1,110 @@
+** Drc report for E:\ETH\Summer2017\repo\camprj_kicad\camprj_kicad.kicad_pcb **
+** Created on  **
+
+** Found 33 DRC errors **
+ErrType(19): Pad near pad
+    @ (121.910 mm,78.370 mm): Pad 9 on F.Cu, Non-copper of U8
+    @ (121.910 mm,78.870 mm): Pad 10 on F.Cu, Non-copper of U8
+ErrType(19): Pad near pad
+    @ (121.910 mm,78.870 mm): Pad 10 on F.Cu, Non-copper of U8
+    @ (121.910 mm,79.370 mm): Pad 11 on F.Cu, Non-copper of U8
+ErrType(19): Pad near pad
+    @ (121.910 mm,79.370 mm): Pad 11 on F.Cu, Non-copper of U8
+    @ (121.910 mm,79.870 mm): Pad 12 on F.Cu, Non-copper of U8
+ErrType(19): Pad near pad
+    @ (122.550 mm,77.720 mm): Pad 8 on F.Cu, Non-copper of U8
+    @ (123.050 mm,77.720 mm): Pad 7 on F.Cu, Non-copper of U8
+ErrType(19): Pad near pad
+    @ (122.550 mm,80.520 mm): Pad 13 on F.Cu, Non-copper of U8
+    @ (123.050 mm,80.520 mm): Pad 14 on F.Cu, Non-copper of U8
+ErrType(19): Pad near pad
+    @ (123.050 mm,80.520 mm): Pad 14 on F.Cu, Non-copper of U8
+    @ (123.550 mm,80.520 mm): Pad 15 on F.Cu, Non-copper of U8
+ErrType(19): Pad near pad
+    @ (123.550 mm,77.720 mm): Pad 6 on F.Cu, Non-copper of U8
+    @ (124.050 mm,77.720 mm): Pad 5 on F.Cu, Non-copper of U8
+ErrType(19): Pad near pad
+    @ (123.550 mm,80.520 mm): Pad 15 on F.Cu, Non-copper of U8
+    @ (124.050 mm,80.520 mm): Pad 16 on F.Cu, Non-copper of U8
+ErrType(19): Pad near pad
+    @ (124.700 mm,78.370 mm): Pad 4 on F.Cu, Non-copper of U8
+    @ (124.700 mm,78.870 mm): Pad 3 on F.Cu, Non-copper of U8
+ErrType(19): Pad near pad
+    @ (124.700 mm,78.870 mm): Pad 3 on F.Cu, Non-copper of U8
+    @ (124.700 mm,79.370 mm): Pad 2 on F.Cu, Non-copper of U8
+ErrType(19): Pad near pad
+    @ (124.700 mm,79.370 mm): Pad 2 on F.Cu, Non-copper of U8
+    @ (124.700 mm,79.870 mm): Pad 1 on F.Cu, Non-copper of U8
+ErrType(4): Track near pad
+    @ (114.125 mm,103.350 mm): Track 0.300 mm, net [GND] (18) on layer F.Cu, length: 0.675 mm
+    @ (114.125 mm,102.850 mm): Pad 3 on F.Cu, Non-copper of U16
+ErrType(16): Two track ends too close
+    @ (117.705 mm,105.080 mm): Track 0.250 mm, net [GND] (18) on layer F.Cu, length: 1.421 mm
+    @ (117.675 mm,104.400 mm): Track 0.300 mm, net [Net-(D32-Pad1)] (66) on layer F.Cu, length: 1.495 mm
+ErrType(17): Two track ends too close
+    @ (116.700 mm,104.075 mm): Track 0.250 mm, net [GND] (18) on layer F.Cu, length: 0.350 mm
+    @ (117.075 mm,103.800 mm): Track 0.300 mm, net [Net-(D32-Pad1)] (66) on layer F.Cu, length: 0.849 mm
+ErrType(18): Two track ends too close
+    @ (115.350 mm,104.075 mm): Track 0.250 mm, net [GND] (18) on layer F.Cu, length: 0.514 mm
+    @ (115.686 mm,104.890 mm): Track 0.300 mm, net [Net-(D33-Pad1)] (68) on layer F.Cu, length: 0.192 mm
+ErrType(16): Two track ends too close
+    @ (115.350 mm,104.589 mm): Track 0.250 mm, net [GND] (18) on layer F.Cu, length: 0.354 mm
+    @ (115.550 mm,105.026 mm): Track 0.300 mm, net [Net-(D33-Pad1)] (68) on layer F.Cu, length: 0.690 mm
+ErrType(17): Two track ends too close
+    @ (115.100 mm,104.920 mm): Track 0.250 mm, net [GND] (18) on layer F.Cu, length: 0.396 mm
+    @ (115.550 mm,105.026 mm): Track 0.300 mm, net [Net-(D33-Pad1)] (68) on layer F.Cu, length: 0.690 mm
+ErrType(4): Track near pad
+    @ (116.350 mm,104.075 mm): Track 0.300 mm, net [GND] (18) on layer F.Cu, length: 0.675 mm
+    @ (115.850 mm,104.075 mm): Pad 7 on F.Cu, Non-copper of U16
+ErrType(4): Track near pad
+    @ (166.600 mm,69.080 mm): Track 0.400 mm, net [V5_0] (23) on layer B.Cu, length: 5.771 mm
+    @ (168.250 mm,66.480 mm): Pad 2 on B.Cu, Non-copper of L6
+ErrType(4): Track near pad
+    @ (104.290 mm,64.300 mm): Track 0.300 mm, net [V5_0] (23) on layer B.Cu, length: 12.990 mm
+    @ (101.290 mm,63.690 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of 
+ErrType(4): Track near pad
+    @ (106.140 mm,62.450 mm): Track 0.300 mm, net [V5_0] (23) on layer B.Cu, length: 2.616 mm
+    @ (101.290 mm,63.690 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of 
+ErrType(4): Track near pad
+    @ (206.500 mm,64.250 mm): Track 0.350 mm, net [Net-(C22-Pad1)] (27) on layer B.Cu, length: 2.121 mm
+    @ (207.870 mm,63.140 mm): Pad 9 on B.Cu, Non-copper of U10
+ErrType(4): Track near pad
+    @ (117.075 mm,102.850 mm): Track 0.300 mm, net [Net-(C41-Pad1)] (41) on layer F.Cu, length: 0.500 mm
+    @ (117.075 mm,103.350 mm): Pad 9 on F.Cu, Non-copper of U16
+ErrType(4): Track near pad
+    @ (117.650 mm,102.350 mm): Track 0.300 mm, net [Net-(C41-Pad1)] (41) on layer F.Cu, length: 0.575 mm
+    @ (117.075 mm,101.850 mm): Pad 12 on F.Cu, Non-copper of U16
+ErrType(4): Track near pad
+    @ (114.500 mm,104.075 mm): Track 0.300 mm, net [Net-(C41-Pad1)] (41) on layer F.Cu, length: 0.350 mm
+    @ (115.350 mm,104.075 mm): Pad 6 on F.Cu, Non-copper of U16
+ErrType(4): Track near pad
+    @ (117.075 mm,103.350 mm): Track 0.300 mm, net [Net-(D32-Pad1)] (66) on layer F.Cu, length: 0.450 mm
+    @ (117.075 mm,102.850 mm): Pad 10 on F.Cu, Non-copper of U16
+ErrType(4): Track near pad
+    @ (145.580 mm,64.414 mm): Track 0.300 mm, net [DIST_GPIO1] (70) on layer B.Cu, length: 2.566 mm
+    @ (146.780 mm,64.990 mm): Pad 33 on F.Cu, B.Cu, Internal, Non-copper of J1
+ErrType(4): Track near pad
+    @ (127.800 mm,63.790 mm): Track 0.300 mm, net [LED_GPI_UV] (72) on layer B.Cu, length: 3.136 mm
+    @ (129.000 mm,64.990 mm): Pad 19 on F.Cu, B.Cu, Internal, Non-copper of J1
+ErrType(17): Two track ends too close
+    @ (121.355 mm,78.870 mm): Track 0.250 mm, net [SPI_CS_IMU] (73) on layer F.Cu, length: 0.424 mm
+    @ (121.355 mm,79.370 mm): Track 0.350 mm, net [IMU_GPO2] (74) on layer F.Cu, length: 0.715 mm
+ErrType(4): Track near pad
+    @ (135.420 mm,63.650 mm): Track 0.300 mm, net [IMU_GPO2] (74) on layer B.Cu, length: 3.010 mm
+    @ (136.620 mm,64.990 mm): Pad 25 on F.Cu, B.Cu, Internal, Non-copper of J1
+ErrType(4): Track near pad
+    @ (114.250 mm,101.750 mm): Track 0.350 mm, net [Net-(R12-Pad1)] (93) on layer F.Cu, length: 0.160 mm
+    @ (114.125 mm,102.350 mm): Pad 2 on F.Cu, Non-copper of U16
+ErrType(4): Track near pad
+    @ (114.850 mm,101.125 mm): Track 0.350 mm, net [Net-(R13-Pad1)] (94) on layer F.Cu, length: 0.160 mm
+    @ (115.350 mm,101.125 mm): Pad 15 on F.Cu, Non-copper of U16
+ErrType(4): Track near pad
+    @ (117.000 mm,101.750 mm): Track 0.350 mm, net [Net-(R14-Pad1)] (95) on layer F.Cu, length: 0.125 mm
+    @ (117.075 mm,102.350 mm): Pad 11 on F.Cu, Non-copper of U16
+
+** Found 1 unconnected pads **
+ErrType(2): Unconnected pads
+    @ (213.725 mm,104.475 mm): Pad 5 on B.Cu, Non-copper of U11 net Net-(C25-Pad1)
+    @ (212.070 mm,95.050 mm): Pad 1 on B.Cu, Non-copper of C25
+
+** End of Report **

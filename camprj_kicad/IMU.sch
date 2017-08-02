@@ -37,7 +37,7 @@ Sheet 5 13
 Title "IMU sub ciruit"
 Date "2017-07-06"
 Rev "1"
-Comp "D-HEST ETH Zurich"
+Comp "MHSL ETH Zurich"
 Comment1 "Geethan Karunaratne"
 Comment2 ""
 Comment3 ""
@@ -52,6 +52,7 @@ F 1 "FIS1100" H 5250 4000 50  0000 R TNN
 F 2 "Myfootprints:LGA16" H 4500 2300 50  0001 C CIN
 F 3 "http://www.mouser.com/ds/2/308/FIS1100-1119815.pdf" H 4600 2400 50  0001 C CNN
 F 4 "http://eu.mouser.com/ProductDetail/Fairchild-Semiconductor/FIS1100/?qs=Pve5fMu%2FDEuZUDX%2Fo6J%252b1g%3D%3D" H 4500 3200 60  0001 C CNN "Buy Link"
+F 5 "FIS1100" H 4500 3200 60  0001 C CNN "MPN"
 	1    4500 3200
 	1    0    0    -1  
 $EndComp
@@ -77,6 +78,7 @@ F 1 "ADP150AUJZ-3.3-R7" H 4200 760 45  0000 L BNN
 F 2 "TO_SOT_Packages_SMD:TSOT-23-5_HandSoldering" H 4530 1300 20  0001 C CNN
 F 3 "http://www.mouser.com/ds/2/609/ADP150-773560.pdf" H 4500 1150 60  0001 C CNN
 F 4 "http://eu.mouser.com/ProductDetail/Analog-Devices/ADP150AUJZ-33-R7/?qs=WIvQP4zGanjNlX1MqHWsFA%3D%3D" H 4500 1150 60  0001 C CNN "Buy Link"
+F 5 "ADP150AUJZ-3.3-R7" H 4500 1150 60  0001 C CNN "MPN"
 	1    4500 1150
 	1    0    0    -1  
 $EndComp
@@ -141,6 +143,7 @@ F 1 "ADP150AUJZ-1.8-R7" H 6750 760 45  0000 L BNN
 F 2 "TO_SOT_Packages_SMD:TSOT-23-5_HandSoldering" H 7080 1300 20  0001 C CNN
 F 3 "http://www.mouser.com/ds/2/609/ADP150-773560.pdf" H 7050 1150 60  0001 C CNN
 F 4 "http://eu.mouser.com/ProductDetail/Analog-Devices/ADP150AUJZ-18-R7/?qs=WIvQP4zGanj6me7Xqf%252bL8w%3D%3D" H 7050 1150 60  0001 C CNN "Buy Link"
+F 5 "ADP150AUJZ-1.8-R7" H 7050 1150 60  0001 C CNN "MPN"
 	1    7050 1150
 	1    0    0    -1  
 $EndComp

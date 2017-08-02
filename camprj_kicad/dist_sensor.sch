@@ -37,7 +37,7 @@ Sheet 4 13
 Title "Distance Sensor sub circuit"
 Date "2017-07-06"
 Rev "1"
-Comp "D-HEST ETH Zurich"
+Comp "MHSL ETH Zurich"
 Comment1 "Geethan Karunaratne"
 Comment2 ""
 Comment3 ""
@@ -52,6 +52,7 @@ F 1 "VL53L0X" H 4750 5200 60  0000 C CNN
 F 2 "Myfootprints:Optical_LGA12" H 5000 4600 60  0001 C CNN
 F 3 "http://www.mouser.com/ds/2/389/en.DM00279086-952611.pdf" H 5000 4600 60  0001 C CNN
 F 4 "http://eu.mouser.com/ProductDetail/STMicroelectronics/VL53L0CXV0DH-1/?qs=dTJS0cRn7ojtsK3C9%252bTaSw%3d%3d" H 4950 4650 60  0001 C CNN "Buy Link"
+F 5 "VL53L0CXV0DH/1" H 4950 4650 60  0001 C CNN "MPN"
 	1    4950 4650
 	-1   0    0    -1  
 $EndComp
@@ -98,6 +99,7 @@ F 1 "ADP150AUJZ-3.3-R7" H 4100 1210 45  0000 L BNN
 F 2 "TO_SOT_Packages_SMD:TSOT-23-5_HandSoldering" H 4430 1750 20  0001 C CNN
 F 3 "http://www.mouser.com/ds/2/609/ADP150-773560.pdf" H 4400 1600 60  0001 C CNN
 F 4 "http://eu.mouser.com/ProductDetail/Analog-Devices/ADP150AUJZ-33-R7/?qs=WIvQP4zGanjNlX1MqHWsFA%3D%3D" H 4400 1600 60  0001 C CNN "Buy Link"
+F 5 "ADP150AUJZ-3.3-R7" H 4400 1600 60  0001 C CNN "MPN"
 	1    4400 1600
 	1    0    0    -1  
 $EndComp

@@ -33,12 +33,12 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 8 13
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Sheet 9 13
+Title "LED Driver"
+Date "2017-08-02"
+Rev "1"
+Comp "MHSL ETH Zurich"
+Comment1 "Geethan Karunaratne"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -60,6 +60,7 @@ F 1 "MAX1561" H 5750 3150 50  0000 C CNN
 F 2 "SparkFun-PowerIC:8-TDFN-EP" H 5750 3050 50  0001 C CNN
 F 3 "http://www.mouser.com/ds/2/256/MAX1561-MAX1599-65829.pdf" H 5750 3050 50  0001 C CNN
 F 4 "http://www.mouser.ch/ProductDetail/Maxim-Integrated/MAX1561ETA+T/?qs=p6VZ%252bklCkRSw1RT%2f%2fPr34Q==" H 5750 3050 60  0001 C CNN "Buy Link"
+F 5 "MAX1561ETA+T" H 5750 3050 60  0001 C CNN "MPN"
 	1    5750 3050
 	1    0    0    -1  
 $EndComp
@@ -384,6 +385,7 @@ F 1 "CMDSH2-3" V 6750 2650 45  0000 L BNN
 F 2 "Diodes_SMD:D_SOD-323_HandSoldering" H 6780 2750 20  0001 C CNN
 F 3 "http://www.mouser.com/ds/2/68/cmdsh2-3-39086.pdf" H 6850 2619 60  0001 C CNN
 F 4 "http://www.mouser.ch/ProductDetail/Central-Semiconductor/CMDSH2-3-TR/?qs=AjE1biBnhWMUdOF9vZ5x%252bg==" H 6950 2719 60  0001 C CNN "Buy Link"
+F 5 "CMDSH2-3 TR" H 6750 2600 60  0001 C CNN "MPN"
 	1    6750 2600
 	0    -1   -1   0   
 $EndComp
