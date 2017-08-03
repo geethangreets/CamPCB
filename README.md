@@ -9,3 +9,7 @@ System Diagram:
 
 3D rendering of the assembly:
 ![Alt text](3d_model/renderings/CamPrj_alt_1.jpg?raw=true "Optional Title")
+
+Final PCB rendering front and back
+![Alt text](handoff/gerber files/front.png?raw=true "Optional Title")
+![Alt text](handoff/gerber files/back.png?raw=true "Optional Title")
